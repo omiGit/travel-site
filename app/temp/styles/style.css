@@ -471,7 +471,6 @@ a{
 
 .wrapper{
     padding-left: 18px;
-    background: green;
     padding-right: 18px;
     overflow: hidden;
     max-width: 1200px;
@@ -672,14 +671,6 @@ a{
     }
     }
 
-.row{
-    background: yellow;
-    
-    
-    
-    
-}
-
 .row__gutters {
         margin-right: -65px;
     }
@@ -786,10 +777,7 @@ p a{
     }
 
 .feature-item{
-   
-    
     padding-bottom: 2.5rem;
-    background: red;
 
 }
 
