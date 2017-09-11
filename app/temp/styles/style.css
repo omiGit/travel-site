@@ -789,6 +789,7 @@ a{
         .row__medium-6{
         float: left;
         width: 50%;
+         
     }
     }
 
@@ -810,7 +811,7 @@ a{
          .row__large-8-smaller{
         width: 63%;
     }
-        .row__large -6{
+        .row__large-6{
         float: left;
         width: 50%;
     }
@@ -850,8 +851,7 @@ a{
 
 .generic-content-container p {
         line-height: 1.5;
-        margin: 1.8rem 0;
-        background: red;   
+        margin: 1.8rem 0;   
         }
 
 @media (min-width: 530px) {
@@ -958,7 +958,7 @@ p a{
     }
 
 .testimonial{
-    background-color: yellow;
+  
     padding : 0px 18px 1px 18px;
     margin-bottom: 98px;
 
@@ -982,7 +982,7 @@ p a{
     }
 
 .testimonial__photo{
-        background: red;
+  
         width: 160px;
         height: 160px;
         margin: 0 auto -80px auto;

@@ -1,4 +1,5 @@
 .row{
+   
     &__gutters {
         margin-right: -65px;
     }   
@@ -47,6 +48,7 @@
         &__medium-6{
         float: left;
         width: 50%;
+         
     }
     }
     
@@ -68,7 +70,7 @@
          &__large-8-smaller{
         width: 63%;
     }
-        &__large -6{
+        &__large-6{
         float: left;
         width: 50%;
     }
